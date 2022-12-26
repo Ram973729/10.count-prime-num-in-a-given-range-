@@ -1,0 +1,1 @@
+# 10.count-prime-num-in-a-given-range-
